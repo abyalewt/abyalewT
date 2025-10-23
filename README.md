@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Abyalew Tetsafe
+💻 Aspiring Software Engineer | Tech Enthusiast | Lifelong Learner
+Welcome to my GitHub! I'm currently transitioning into the world of software engineering, building a strong foundation in full-stack development, system design, and modern web technologies. I’m passionate about solving real-world problems through clean, efficient, and scalable code.
 
-<!--
-**abyalewt/abyalewT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm Working On
+Building hands-on projects to strengthen my portfolio
+Learning advanced JavaScript, React, Node.js, and backend architecture
+Practicing Data Structures & Algorithms for technical interviews
+Exploring DevOps fundamentals and cloud deployment
 
-Here are some ideas to get you started:
+🧠 Learning From
+Alx africa
+Angela Yu
+Akshay Saini
+Traversy Media
+GeeksforGeeks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+Languages: JavaScript, Python, HTML, CSS
+Frameworks: React, Node.js, Express
+Tools: Git, GitHub, VS Code, Postman
+Currently Exploring: MongoDB, Docker, CI/CD, TypeScript
+
+📫 Let's Connect
+
+📧 Email: abyalewtetsafe@gmail.com
